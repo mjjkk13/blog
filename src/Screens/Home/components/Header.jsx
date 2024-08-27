@@ -7,6 +7,7 @@ function Header() {
         <h2 className='font-bold text-sm md:text-2xl'>Mariana's Blog</h2>
         <div className='flex gap-2 items-center'>
             <img src={logo}
+            
             className='w-12 h-12'/>
             <h2 className='font-bold text-sm hidden md:block'>By<br></br> Mariana</h2>
         </div>
